@@ -1,5 +1,6 @@
 # CodingGame
 ------------
+![Condingame](https://github.com/ARKAGEDON/CodingGame/blob/main/codingameLogo.png)
 ![Language](https://img.shields.io/badge/Made_With-C_&_Python-important?style=for-the-badge)
 ![Licence](https://img.shields.io/github/license/ARKAGEDON/MakefileMaker?style=for-the-badge)
 ![OpenSource](https://img.shields.io/badge/OpenSource-brightgreen?style=for-the-badge&logo=opencollective&logoColor=white)
@@ -14,14 +15,14 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |-----------|---|--------|
 |ASCII ART | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/ascii_art.c) |  | 
 |Unary | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/unary.c) |  | 
-|Power of Thor - Chapter 1| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/power_of_thor_1.c) |  | 
-|Onboarding | [x]() |  |  
-|Mars Lander - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/mars_lander_1.c) |  |  
-|Horse racing duals | [x]() |  |  
-|Defibrillators | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/defibrillators.c) |  |  
-|The descent | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/the_descent.c) |  |  
-|Temperatures | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/temperatures.c) |  |  
-|Mime type | [x]() |  |  
+|Power of Thor - Chapter 1| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/power_of_thor_1.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/power_of_thor_1.py) | 
+|Onboarding | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/onboarding.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/onboarding.py) |
+|Mars Lander - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/mars_lander_1.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/mars_lander_1.py) |  
+|Horse racing duals | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/horse-racing-duals.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/horse_racing_duals.py) |  
+|Defibrillators | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/defibrillators.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/defibrillators.py) |  
+|The descent | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/the_descent.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/defibrillators.py) |  
+|Temperatures | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/temperatures.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/temperatures.py) |  
+|Mime type | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Easy_Challenges/mime-type.py) |  
 
   
 ## Medium challenges
@@ -30,9 +31,9 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |-----------|---|--------|
 |There is no spoon - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/there_is_no_spoon_1.c) |  | 
 |Shadows of the knigth - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/shadow_of_knight_1.c) |  | 
-|Stock exchange losses| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/stock_exchange_losses.c) |  | 
-|Winamax battle | [x]() |  |  
-|Don't panic - Chapter 1 | [x]() |  |  
+|Stock exchange losses| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/stock_exchange_losses.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/stock_exchange_losses.py) | 
+|Winamax battle | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/winamax_battle.py) |  
+|Don't panic - Chapter 1 | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/don't_panic_1.py) |  
   
 ## Hard challenges
 --------
