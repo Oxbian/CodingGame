@@ -1,7 +1,4 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
-#include <stdbool.h>
 
 int main()
 {
@@ -17,8 +14,7 @@ int main()
     scanf("%d%d%d%d", &light_x, &light_y, &initial_tx, &initial_ty);
 
     // game loop
-    while (1) 
-    {
+    while (1) {
         // The remaining amount of turns Thor can move. Do not remove this line.
         int remaining_turns;
         scanf("%d", &remaining_turns);
@@ -29,19 +25,37 @@ int main()
         if ((initial_tx >= 0 && initial_tx < 40) && (initial_ty >= 0 && initial_ty < 18))
         {
             if (initial_tx > light_x)
-                dirX = "W", initial_tx--;
+            {
+                dirX = "W";
+                initial_tx--;
+            }
             else if (initial_tx < light_x)
-                dirX = "E", initial_tx++;
+            {
+                dirX = "E";
+                initial_tx++;
+            }
             else
+            {
                 dirX = "";
+            }
 
             if (initial_ty > light_y)
-                dirY = "N", initial_ty--;
+            {
+                dirY = "N";
+                initial_ty--;
+            }
             else if (initial_ty < light_y)
-                dirY = "S", initial_ty++;
+            {
+                dirY = "S";
+                initial_ty++;
+            }
             else
+            {
                 dirY = "";
+            }
         }
+
+        
         printf("%s%s\n", dirY, dirX);
     }
 

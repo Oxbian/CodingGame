@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 //Convert char into binary ascii
 void charToBin(char c, char *buffer)

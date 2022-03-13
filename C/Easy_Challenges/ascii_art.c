@@ -1,11 +1,8 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
-#include <stdbool.h>
-
 
 int main()
 {
+    //Getting the data
     int L;
     scanf("%d", &L);
     int H;
@@ -21,13 +18,14 @@ int main()
     }
 
     int size=0;
-    //On compte la taille du mot
+
+    //Counting the size of the word
     for (int i =0; i < 257; i++)
     {
         if (T[i] != '\0')
         {
             size++;
-            //On convertit notre mot
+            //Convert the word
             if (T[i] > 96 && T[i] < 123)
                 T[i] -= 32;
         }
@@ -35,10 +33,10 @@ int main()
             break;
     }
 
-    //Affichage du mot
-    for (int i = 0; i < H; i++) //On répète ça le nombre de lignes
+    //Printing the word
+    for (int i = 0; i < H; i++) //Repeat number of line times
     {
-        for (int j = 0; j< size; j++) //Répétition du nombre de lettre pour afficher la ligne i de chaque lettre
+        for (int j = 0; j< size; j++) //Repeat number of letter times
         {
             int id = T[j] - 65;
             //fprintf(stderr,"T = %d Id= %d\n",T[j],id);
@@ -59,8 +57,6 @@ int main()
         }
         printf("\n");
     }
-    // Write an answer using printf(). DON'T FORGET THE TRAILING \n
-    // To debug: fprintf(stderr, "Debug messages...\n");
 
     return 0;
 }

@@ -16,7 +16,7 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |Unary | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/unary.c) |  | 
 |Power of Thor - Chapter 1| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/power_of_thor_1.c) |  | 
 |Onboarding | [x]() |  |  
-|Mars Lander - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/mars_landers_1.c) |  |  
+|Mars Lander - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/mars_lander_1.c) |  |  
 |Horse racing duals | [x]() |  |  
 |Defibrillators | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/defibrillators.c) |  |  
 |The descent | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Easy_Challenges/the_descent.c) |  |  
