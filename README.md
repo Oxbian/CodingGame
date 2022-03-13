@@ -1,6 +1,6 @@
 # CodingGame
 ------------
-In this github project you will find all my solutions for the coding games challenge I've made. For the moment all the challenges are done in C
+In this github project you will find all my solutions for Codingame challenges I have made. Some challenges are done in C and Python and some in Python only. If I have time one day I will do all in C.
 
 # Easy challenges
 ---------
