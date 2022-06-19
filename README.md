@@ -33,10 +33,11 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |Shadows of the knigth - Chapter 1 | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/shadow_of_knight_1.c) |  | 
 |Stock exchange losses| [x](https://github.com/ARKAGEDON/CodingGame/blob/main/C/Medium_Challenges/stock_exchange_losses.c) | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/stock_exchange_losses.py) | 
 |Winamax battle | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/winamax_battle.py) |  
-|Don't panic - Chapter 1 | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/don't_panic_1.py) |  
-  
-## Hard challenges
---------
+|Don't panic - Chapter 1 | []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/don't_panic_1.py) | 
+|Death First Search - Chapter 1| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/death_first_search_1.py) |
+|Mars Lander - Chapter 2| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/mars_lander_2.py) |
+|Conway sequence| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/conway_sequence.py) |
+|Network Cabling| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/network_cabling.py) |
 
 
 
