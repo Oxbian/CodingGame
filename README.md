@@ -38,6 +38,7 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |Mars Lander - Chapter 2| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/mars_lander_2.py) |
 |Conway sequence| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/conway_sequence.py) |
 |Network Cabling| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/network_cabling.py) |
-
+|Telephone Numbers| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/telephone_numbers.py) |
+|The Fall - Chapter 1| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/the_fall_1.py) |
 
 
