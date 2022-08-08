@@ -41,6 +41,7 @@ __Be careful, a lot of my solutions aren't optimized because I didn't took time 
 |Telephone Numbers| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/telephone_numbers.py) |
 |The Fall - Chapter 1| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/the_fall_1.py) |
 |The gift| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/the_gift.py)|
-|Dwarfs standing on the shoulders of giants| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/dwarfs_standing_on_the_shoulders_of_giants.py)
-
+|Dwarfs standing on the shoulders of giants| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/dwarfs_standing_on_the_shoulders_of_giants.py) |
+|Mayan Calculations| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/mayan_calculations.py) |
+|Scrabble| []() | [x](https://github.com/ARKAGEDON/CodingGame/blob/main/Python/Medium_Challenges/scrabble.py) |
 
